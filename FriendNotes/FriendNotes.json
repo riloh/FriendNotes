@@ -1,0 +1,11 @@
+{
+  "Author": "Riloh",
+  "Name": "Friend Notes",
+  "Punchline": "Create client-side notes for friends.",
+  "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
+  "InternalName": "friendNotes",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "friends"
+  ]
+}
